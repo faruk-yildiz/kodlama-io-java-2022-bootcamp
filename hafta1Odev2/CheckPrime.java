@@ -1,4 +1,4 @@
-package odev2;
+package hafta1Odev2;
 
 import java.util.Scanner;
 
